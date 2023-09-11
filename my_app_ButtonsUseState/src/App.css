@@ -1,0 +1,33 @@
+.firtsButton{
+    border-radius: 1em;
+    padding: 1em;
+    width: 10rem;
+    margin-left: 1em;
+}
+.SecondsButton{
+    border-radius: 1rem;
+    padding: 1em;
+    width: 10rem;
+    margin-left: 1em;
+    margin-left: 1em;
+}
+/* ------------------------------------------------------------------------------ */
+
+.elementParent{
+    margin-top: 2em;
+    border-radius: 1em;
+    width: 1000px;
+    border: solid red 3px;
+    margin-left: 1em;
+}
+
+.dark{
+    margin-left: 2em;
+    margin-top: 2em;
+    /* border-radius: 1em; */
+    width: 5em;
+}
+.light{
+    margin-left: 1em;
+    /* width: 5em; */
+}
